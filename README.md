@@ -4,21 +4,10 @@
 
 - **姓名：** Nasir Lin  
 - **About ME：** 菜鳥程式工程師｜電腦維修工程師｜鋼琴頻道品牌創辦人｜資訊品牌創辦人 (Nasify Tech)  
-- **學歷：** 國立臺北商業大學 資訊管理系  
 
 ## 我服務的項目
 
-- 個人電腦維護與重灌
-- 辦公軟體安裝與設定
-- 客製化軟體安裝及設定
-- 電腦疑難排解與優化
-- 技術諮詢及學習
-- 網站設計與開發
-- 網頁代管與維護
-- 形象網頁建構
-- 企業系統平台設置
-- 客製化解決方案
-- IT其他資訊服務
+個人電腦維護與重灌 ｜ 辦公軟體安裝與設定 ｜ 客製化軟體安裝及設定 ｜ 電腦疑難排解與優化 ｜ 技術諮詢及學習 ｜ 網站設計與開發 ｜ 網頁代管與維護 ｜ 形象網頁建構 ｜ 企業系統平台設置 ｜ 客製化解決方案 ｜ IT其他資訊服務
 
 ## 開發作品集
 
@@ -29,7 +18,6 @@
   [前往查看](https://ntubpeo.web.app)
 
 ## 我的 Coding Skill
-
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" alt="Java" />
